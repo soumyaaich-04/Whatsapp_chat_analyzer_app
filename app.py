@@ -48,7 +48,6 @@ st.sidebar.title("WhatsApp Chat Analyzer")
 # Open the image file
 #logo = Image.open(logo_path)
 
-# logo = Image.open("C:\Users\TANIYA\Downloads\wp pic")  # Replace with the path to your logo file
 #st.sidebar.image(logo, width=150)
 
 # Custom CSS
