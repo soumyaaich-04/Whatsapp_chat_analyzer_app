@@ -110,7 +110,6 @@ st.markdown("<div class='title'>WhatsApp Chat Analyzer</div>", unsafe_allow_html
 nltk.download('vader_lexicon')
 
 # File uploader
-uploaded_file = st.sidebar.file_uploader("For exporting chat:", type=["txt"])
 uploaded_file = st.sidebar.file_uploader("Choose a file", type=["txt"])
 
 # Check if a file has been uploaded
