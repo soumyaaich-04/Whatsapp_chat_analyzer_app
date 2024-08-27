@@ -88,7 +88,7 @@ st.set_page_config(page_title="WhatsApp Chat Analyzer", layout="wide")
 
 st.sidebar.title("WhatsApp Chat Analyzer")
 # Load and display logo
-logo_path = r"images/whatsapp-logo.png"  # Replace with the correct path and extension
+logo_path = r"whatsapp-logo.png"  # Replace with the correct path and extension
 
 # Open the image file
 logo = Image.open(logo_path)
