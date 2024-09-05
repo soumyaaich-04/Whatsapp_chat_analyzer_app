@@ -4,6 +4,6 @@ seaborn
 urlextract
 wordcloud
 pandas
-emoji
+emoji==1.7.0
 nltk
 reportlab
